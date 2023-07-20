@@ -16,6 +16,7 @@ rubiconproject.com, 17598, RESELLER, 0bfd66d529a55807
 indexexchange.com, 196326, RESELLER
 yahoo.com, 59407, RESELLER, e1a5b5b6e3255540
 sharethrough.com, xz7QjFBY, RESELLER, d53b998a7bd4ecd2
+google.com, pub-6436558759135020, DIRECT, f08c47fec0942fa0
 33across.com, 0013300001jlr99AAA, RESELLER, bbea06d9c4d2853c
 amxrtb.com, 105199663, RESELLER
 sovrn.com, 264726, RESELLER, fafdf38b16bf6b2b
