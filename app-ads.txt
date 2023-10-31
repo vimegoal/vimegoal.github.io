@@ -559,3 +559,7 @@ wortise.com, 2290fe9f-02f5-461f-8d72-4b18d84cda67, DIRECT
 improvedigital.com, 2301, RESELLER
 #meta
 facebook.com, 160280386238251, DIRECT, c3e20eee3f780d68
+#ProfitSence - Programmatic Ad Exchange Network
+#M_Entries
+profitsence.com, 23609, DIRECT
+readwhere.digital, rd1275vlxoesdrnyoictoehjdafayfqxqtvt6540cee3887ee, DIRECT
